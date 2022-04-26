@@ -1,0 +1,20 @@
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\bin\Debug\NeuralNumberIdentifier.exe.config
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\bin\Debug\NeuralNumberIdentifier.exe
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\bin\Debug\NeuralNumberIdentifier.pdb
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.MainWindow.resources
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.Properties.Resources.resources
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.csproj.GenerateResource.cache
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.csproj.CoreCompileInputs.cache
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.exe
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.pdb
+D:\coding\C#\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.csprojAssemblyReference.cache
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\bin\Debug\NeuralNumberIdentifier.exe.config
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\bin\Debug\NeuralNumberIdentifier.exe
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\bin\Debug\NeuralNumberIdentifier.pdb
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.csprojAssemblyReference.cache
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.MainWindow.resources
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.Properties.Resources.resources
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.csproj.GenerateResource.cache
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.csproj.CoreCompileInputs.cache
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.exe
+D:\coding\C sharp\NeuralNumberIdentifier\NeuralNumberIdentifier\obj\Debug\NeuralNumberIdentifier.pdb
